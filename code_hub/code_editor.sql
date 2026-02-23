@@ -93,7 +93,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `created_at`, `profile_photo`, `bio`) VALUES
-(1, 'vishu', 'xyz@gmail.com', '$2y$10$k5Zy/b58Jb82Wk5HCihoXOXiSeZ5yGKw1EGyvhOTRxXl/1BkYVan.', '2025-08-30 13:37:25', 'uploads/1756571699_download.jpeg', 'Back-End Developer !!');
+(1, 'xyz', 'xyz@gmail.com', '$2y$10$k5Zy/b58Jb82Wk5HCihoXOXiSeZ5yGKw1EGyvhOTRxXl/1BkYVan.', '2025-08-30 13:37:25', 'uploads/1756571699_download.jpeg', 'Back-End Developer !!');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
