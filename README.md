@@ -54,19 +54,38 @@ Designed for learning, experimentation, and lightweight development.
 > Add your screenshots below
 > <img width="1431" height="866" alt="image" src="https://github.com/user-attachments/assets/1fa88517-d50e-4b3c-86ba-b1ad47cc92a0" />
 
-login page
+## Login page
 <img width="1030" height="614" alt="image" src="https://github.com/user-attachments/assets/3927a185-6915-4db9-a229-50623bec00a2" />
 
-home page or main page
+## Home page or main page
 <img width="1905" height="812" alt="image" src="https://github.com/user-attachments/assets/c1e0b0b9-9b45-4fa0-8b11-6d3602573f03" />
 
-profile page
+## Profile page
 <img width="1896" height="832" alt="image" src="https://github.com/user-attachments/assets/3922f4de-b10b-4324-9bfa-86afe387d5d4" />
 
-editor :
+## Editor :
 <img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/b646e9f3-4e9b-428d-b191-9de1acb216d3" />
 
 
 
-
+## 📂 Project Structure
+``` bash
+project-name/
+│
+├── api/
+├── assets/
+├── includes/
+├── uploads/
+│
+├── code_editor.sql
+├── dashboard.php
+├── edit_profile.php
+├── editor.php
+├── home.php
+├── login.php
+├── logout.php
+├── profile.php
+├── signup.php
+└── README.md
+```
 
